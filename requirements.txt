@@ -1,0 +1,4 @@
+# streamlit
+# pytube@git+https://github.com/priyankaj1311/pytube.git@master_copy
+
+opencv-python
